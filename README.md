@@ -8,7 +8,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ## 🔗 Live Site
 
-[View Live Site]()
+[View Live Site](https://mohamed-ahmed-137.github.io/blog-preview-card/)
 
 ## 🚀 Built With
 
